@@ -5,6 +5,6 @@
 - 📫 how to reach me: dm me on instagram @aman7o7 (or send a carrier pigeon if you’re feeling old-school) 
 - 😄 pronouns: he/him (but you can call me the code wizard! just kidding lol)
 - ⚡ fun fact: i once created a clone of google... but it mostly just links to cat videos!
-- 🎮 when i’m not coding, you’ll find me playing chess (not a grandmaster yet, but working on my game!)
+- 🎮 when i’m not coding, you’ll find me playing chess @NegativeEye (not a grandmaster yet, but working on my game!)
 - 📚 favorite snack while coding: instant noodles (the true fuel of champions!)
 - 💻 my ideal weekend: coding until 3 am, then regretting it the next day.
