@@ -1,0 +1,10 @@
+- 👋 hi, i’m @JrDevAman
+- 👀 i’m interested in full stack web development (basically, i want to build the next big thing... or at least a decent website!)
+- 🌱 i’m currently learning html and python (because who needs sleep, right?)
+- 💞️ i’m looking to collaborate on web projects (let’s create something awesome, or at least mildly entertaining!)
+- 📫 how to reach me: dm me on instagram @aman7o7 (or send a carrier pigeon if you’re feeling old-school) 
+- 😄 pronouns: he/him (but you can call me the code wizard! just kidding lol)
+- ⚡ fun fact: i once created a clone of google... but it mostly just links to cat videos!
+- 🎮 when i’m not coding, you’ll find me playing chess (not a grandmaster yet, but working on my game!)
+- 📚 favorite snack while coding: instant noodles (the true fuel of champions!)
+- 💻 my ideal weekend: coding until 3 am, then regretting it the next day.
