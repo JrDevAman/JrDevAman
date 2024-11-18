@@ -1,10 +1,64 @@
-- 👋 hi, i’m @JrDevAman
-- 👀 i’m interested in full stack web development (basically, i want to build the next big thing... or at least a decent website!)
-- 🌱 i’m currently learning html and python (because who needs sleep, right?)
-- 💞️ i’m looking to collaborate on web projects (let’s create something awesome, or at least mildly entertaining!)
-- 📫 how to reach me: dm me on instagram @aman7o7 (or send a carrier pigeon if you’re feeling old-school) 
-- 😄 pronouns: he/him (but you can call me the code wizard! just kidding lol)
-- ⚡ fun fact: i once created a clone of google... but it mostly just links to cat videos!
-- 🎮 when i’m not coding, you’ll find me playing chess @NegativeEye (not a grandmaster yet, but working on my game!)
-- 📚 favorite snack while coding: instant noodles (the true fuel of champions!)
-- 💻 my ideal weekend: coding until 3 am, then regretting it the next day.
+<h1 align="center">Hi 👋, I'm JrDevAman</h1>
+<h3 align="center">Aspiring Web Developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jrdevaman&label=Profile%20views&color=0e75b6&style=flat" alt="jrdevaman" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jrdevaman" alt="jrdevaman" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/jrdevaman" target="blank"><img src="https://img.shields.io/twitter/follow/jrdevaman?logo=twitter&style=for-the-badge" alt="jrdevaman" /></a> </p>
+
+- 🔭 I’m currently working on **Making Buttons using Html and Css** lol
+
+- 🌱 I’m currently learning **CSS and JS**
+
+- 📫 How to reach me **contact.jrdevaman@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/jrdevaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jrdevaman" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/jrdevaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jrdevaman" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/aman7o7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aman7o7/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@the_cheatcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@the_cheatcode" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jrdevaman&show_icons=true&locale=en&layout=compact" alt="jrdevaman" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrdevaman&show_icons=true&locale=en" alt="jrdevaman" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jrdevaman&" alt="jrdevaman" /></p>
+
+<h1 align="center">Hi 👋, I'm JrDevAman</h1>
+<h3 align="center">Aspiring Web Developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jrdevaman&label=Profile%20views&color=0e75b6&style=flat" alt="jrdevaman" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jrdevaman" alt="jrdevaman" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/jrdevaman" target="blank"><img src="https://img.shields.io/twitter/follow/jrdevaman?logo=twitter&style=for-the-badge" alt="jrdevaman" /></a> </p>
+
+- 🔭 I’m currently working on **CSS**
+
+- 🌱 I’m currently learning **CSS and JS**
+
+- 📫 How to reach me **contact.jrdevaman@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/jrdevaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jrdevaman" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/jrdevaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jrdevaman" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/aman7o7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aman7o7/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/the_cheatcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the_cheatcode" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jrdevaman&show_icons=true&locale=en&layout=compact" alt="jrdevaman" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrdevaman&show_icons=true&locale=en" alt="jrdevaman" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jrdevaman&" alt="jrdevaman" /></p>
+
